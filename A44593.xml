@@ -1,0 +1,647 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sighs from Hell: or, The groans of the damned Delivered in a sermon from the parable of Dives and Lazarus. Wherein is plainly set forth the miserable state of those that like Dives have their good things in this life, but after this life is ended go down to Hell, and there being in torment cry for a drop of water to cool their tongue. Being preached, and now made publique on purpose to awaken the carnal besotted sinners of England. Also a word of comfort to all the poor afflicted people of God, who in this life time receives evil things, but in the world to come joys unspeakable, and life everlasting. By R. Hough, minister of the gospel.</title>
+            <author>Hough, Roger.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44593</idno>
+            <idno type="STC">Wing H2914B</idno>
+            <idno type="STC">ESTC R215809</idno>
+            <idno type="EEBO-CITATION">99827578</idno>
+            <idno type="PROQUEST">99827578</idno>
+            <idno type="VID">32000</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32000)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1910:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sighs from Hell: or, The groans of the damned Delivered in a sermon from the parable of Dives and Lazarus. Wherein is plainly set forth the miserable state of those that like Dives have their good things in this life, but after this life is ended go down to Hell, and there being in torment cry for a drop of water to cool their tongue. Being preached, and now made publique on purpose to awaken the carnal besotted sinners of England. Also a word of comfort to all the poor afflicted people of God, who in this life time receives evil things, but in the world to come joys unspeakable, and life everlasting. By R. Hough, minister of the gospel.</title>
+                  <author>Hough, Roger.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Charles Passenger, at the seven Stars on London Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hell --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32000:1"/>
+            <p>Sighs from Hell: OR, THE <hi>Groans of the Damned.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>livered in a Sermon from the Parable of <hi>Dives</hi> and <hi>Lazarus.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erein is plainly ſet forth the miſerable ſtate of thoſe that like <hi>Dives</hi> have their good <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hings in this Life, but after this Life is <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nded go down to Hell, and there being in <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>orment cry for a drop of Water to cool <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eir Tongue. Being Preached, and now <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ade publique on purpoſe to awaken the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rnal beſotted Sinners of <hi>England.</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a word of comfort to all the poor afflict<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> People of God, who in this Life time re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eives evil things, but in the world to come <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oys unſpeakable, and life everlaſting.</p>
+            <p>By <hi>R. Hough,</hi> Miniſter of the Goſpel.</p>
+            <q>
+               <bibl>
+                  <hi>Pſalm</hi> 9.17, 18.</bibl>
+               <p>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>Wicked ſhall turn into Hell, and all Nations that <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rget God.</p>
+               <p>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the poor ſhall not be always forgotten, the hope <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the afflicted ſhall not periſh for ever.</p>
+            </q>
+            <p>
+               <hi>LONDON.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inted for <hi>Charles Paſſinger,</hi> at the ſeven Stars on <hi>London Bridge.</hi>
+            </p>
+            <pb facs="tcp:32000:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32000:2"/>
+            <head>Sighs from Hell: OR, THE Groans of a damned Soul.</head>
+            <p>
+               <hi>Luke 16. Chap. 19, 20, 21, 22, 23, 24 Verſes.</hi>
+            </p>
+            <p>
+               <hi>There was a certain Rich man, which was cloathed in Purples and fine Linen, and fared ſumptuouſly every day.</hi>
+            </p>
+            <p>
+               <hi>And there was a certain Begger named La<g ref="char:EOLhyphen"/>zarus; which was laid at his Gate, full of ſores.</hi>
+            </p>
+            <p>
+               <hi>And deſired to be fed with the Crumbs which fell from the Rich mans Table: moreover the Dogs came and licked his Sores.</hi>
+            </p>
+            <p>
+               <hi>And it came to Paſs that the Begger dyed, and was carried by Angells into Abrahams boſome: the Rich man alſo died and was buried:</hi>
+            </p>
+            <p>
+               <hi>And in Hell he lift up his eyes being in tor<g ref="char:EOLhyphen"/>ments, and ſeeth Abraham a far off, and Lazarus in his boſome.</hi>
+            </p>
+            <pb n="2" facs="tcp:32000:3"/>
+            <p>
+               <hi>And he cryed, and ſaid; Father Abraham have mercy on me, and ſend Lazarus that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.</hi>
+            </p>
+            <p>I Shall at this time ſpeak only to the <hi>23,</hi> and <hi>24</hi> Verſes of this Chapter, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>And in Hell he lift up his eyes, being in tor<g ref="char:EOLhyphen"/>ments, and ſeeth Abraham a far off, and Lazarus in his boſome.</hi>
+            </p>
+            <p>
+               <hi>And he cryed, and ſaid, Father Abraham have mercy upon me, and ſend Lazarus that he may dip the tip of his finger in water to cool my tongue; for I am tormented in this flame.</hi>
+            </p>
+            <p>The former Verſe ſpeaks of the Depar<g ref="char:EOLhyphen"/>ture of the ungodly out of this life, toge<g ref="char:EOLhyphen"/>ther with the glorious conduct that the godly have into the Kingdom of Heaven; in this verſe, our bleſſed Lord doth ſhew what ſhall befall the Reprobate after this life is ended, <hi>and in Hell he lift up his eyes,</hi> from which words may be obſerved theſe things.</p>
+            <p>Firſt, That there is an Hell for Souls to be tormented in when this life is ended;
+<pb n="3" facs="tcp:32000:3"/>for after this Rich-man was dead and buried, <hi>In Hell he lift up his eyes.</hi>
+            </p>
+            <p>Secondly, That all that are ungodly and live and die in their ſins, ſo ſoon as ther they die, they go into Hell: <hi>He died, and was bu<g ref="char:EOLhyphen"/>ried, and in Hell he lift up his eyes.</hi>
+            </p>
+            <p>Thirdly, That there be ſome that are ſo faſt aſleep and ſecure in their ſins, that they know not where they are, till they come into Hell: which may be gathered from theſe words, <hi>In Hell he lift up his eyes,</hi> before he was faſt aſleep.</p>
+            <p>Secondly, That all the ungodly that live and die in their ſins, ſo ſoon as ever they depart this life, do deſcend into hell. This appeared plainly in the words of this Parable: where Chriſt ſaith, <hi>the Rich man died and was buried: and in Hell he lift up his eyes.</hi> As the Tree falls ſo it lies, whether it be to Heaven or Hell, <hi>Eccleſ. 11.3.</hi> And as Chriſt ſaid to the Thief on the Croſs; <hi>This day ſhalt thou be with me in Paradiſe,</hi> even ſo the Divel in like manner may ſay unto the Souls of wicked Men and Women: To morrow ſhalt thou be with me in Hell.</p>
+            <pb n="4" facs="tcp:32000:4"/>
+            <p>O behold and ſee all you impenitent Sin<g ref="char:EOLhyphen"/>ners, what a miſerable condition you will be in, if you dye in your ſins.</p>
+            <p>Oh Friends, if you were but your ſelves, you would have a care of your ſouls. O what will it profit thy ſoul to have pleaſure in this life, and torments in Hell, <hi>Mark 8.36,</hi> O then do not neglect our Lord Ieſus Chriſt, leſt thou drop down into Hell, <hi>Heb. 2.3.</hi> Conſider, would it not wound thee to thine heart, to come upon thy death-bed, and in<g ref="char:EOLunhyphen"/>ſtead of having the comfort of a well ſpent life, and the mercyes of the Lord Ieſus Chriſt; to have nothing but the ſight of an ill-ſpent life, and thy ſins ſtaring thee in the face: thy Conſcience like Thunder chafes againſt thee: the thoughts of God terrify<g ref="char:EOLhyphen"/>ing of thee: Death with his mercileſs paw ſeizing upon thee: the Devil ſtanding ready to carry away thy ſoul: and Hell enlarging her ſelf, and ready to ſwallow thee up: and Eternity of Miſery and Torments attend<g ref="char:EOLhyphen"/>ing upon thee, from which there is no re<g ref="char:EOLhyphen"/>leaſe, <hi>Rev. 6.8, And I looked and behold a Pale Horſe, and his name that ſat thereon was Death, and Hell followed him,</hi> O miſerable Comforters, Oh Dreadful Socie<g ref="char:EOLhyphen"/>ty, here comes Death and Hell unto thee; it is near thee, ſo it will come.</p>
+            <pb n="5" facs="tcp:32000:4"/>
+            <p>Bleſſed are thoſe that through Faith in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſus Chriſt do eſcape the Soul-Murthering Companions.</p>
+            <p>Thirdly, That ſome are ſo faſt aſleep in their ſins, that they ſcarce know where they <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re until they come to Hell.</p>
+            <p>And this is too much known, to woeful and daily experience: ſometimes when we go to viſit them that are ſick in Towns and Pla<g ref="char:EOLhyphen"/>ces where we live; Oh how ſenſeleſs are they; how ſeared is their Conſcience, they are not ſenſible of Heaven or Hell, of Sin or a Saviour; ſpeak to them of their Souls, and you ſhall find them as ignorant as if they had no ſouls to regard.</p>
+            <p>But ſirs, you may obſerve, that the time of the ungodly mens ſmarting for their ſins, will be in the torments of Hell: and now I am put to a ſtand, when I con<g ref="char:EOLhyphen"/>ſider the torments of Hell, into which the Damned do fall: O unſpeakable and end<g ref="char:EOLhyphen"/>leſs torments; and that thy ſoul might be made to flee from theſe intollerable Torments, I ſhall ſhew you briefly what theſe torments of Hell are, by the names of it.</p>
+            <pb n="6" facs="tcp:32000:5"/>
+            <p>Secondly, by the ſad eſtate thou wilt be in it thou comeſt there.</p>
+            <p>Firſt, 'Tis called a never dying worm, <hi>Mark 9.</hi>
+            </p>
+            <p>It is called an Oven, fire hot, <hi>Mal. 4.11.</hi> It is called a Furnace, a fiery Furnace<g ref="char:punc">▪</g> 
+               <hi>Mat. 18.</hi>
+            </p>
+            <p>It is called the bottomleſs Pit, the un<g ref="char:EOLhyphen"/>quenchable fire, fire and Brimſtone, Hell-fire, the Lake of fire, everlaſting fire, a ſtream of fire, <hi>Rev. 21.</hi>
+            </p>
+            <p>Firſt, one part of thy torments will be this, thou ſhalt have a full ſight of thy ill-ſpent life, from firſt to laſt; thou here forget'ſt thy fins, but there thou ſhalt be made to re<g ref="char:EOLhyphen"/>member how thou didſt ſin againſt God; in ſuch a place, and at ſuch a time, and with ſuch a one: and this will be a Hell unto thee, <hi>Pſal. 50.21.</hi> God will ſet them in order be<g ref="char:EOLhyphen"/>fore thine eyes.</p>
+            <p>Secondly, Thou ſhalt have the guilt of them all lye heavy on thy ſoul; here men can ſometimes think of their ſins with delight, but there the thinking of them will be un<g ref="char:EOLhyphen"/>ſpeakable torments.</p>
+            <pb n="7" facs="tcp:32000:5"/>
+            <p>Thirdly, thou ſhalt have brought into thy remembrance the ſlighting of the Goſpel of Chriſt, here thou ſhalt conſider how willing Chriſt was to come into the World to ſave ſinners, and for how ſmall a trifle thou didſt reject him, <hi>Iſa. 28.16.</hi> This will be a tor<g ref="char:EOLhyphen"/>ment to thee, when thou conſidereſt what gracious proffers and ſweet invitations thou haſt had, and that thou rejected them, and preferred thy ſins before thy Saviour. Oh the conſideration of this, I ſay, will be a tor<g ref="char:EOLhyphen"/>ment unto thee.</p>
+            <p>Fourthly, Another part of thy Torment will be this; thou ſhalt ſee thy Friends, thy acquaintance, thy Neighbours; nay, it may be thy Father and Mother; thy Wife, thy Husband, thy Children, thy Brother, thy Sister, with others in the Kingdom of Hea<g ref="char:EOLhyphen"/>ven, and thy ſelf thr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt out, <hi>Luke 13.18. There ſhall be weeping and wailing, &amp;c.</hi> When you ſhall ſee <hi>Abraham</hi> (thy Father) and <hi>Iſaac</hi> and <hi>Jacob,</hi> (together with your Brothers) the Prophets, in the Kingdom of Heaven, and your ſelves thruſt out. O wor<g ref="char:EOLhyphen"/>derful Torment.</p>
+            <p>Fifthly, Thou ſhalt have none but a compa<g ref="char:EOLhyphen"/>ny
+<pb n="8" facs="tcp:32000:6"/>of damned Souls, with an innumerable company of Devils, to keep Company with thee; whilſt thou art in this World the very thoughts of the Devil appearing to thee makes thy fleſh to tremble, and thy hair rea<g ref="char:EOLhyphen"/>dy to ſtand upright on thy head; but what wilt thou do when thou ſhalt have the real ſociety of all the Devils in Hell howling &amp; roaring and ſcreetching in ſuch a hidious manner that thou wilt be at thy wits ends and be ready to rum ſtark mad again for anguiſh &amp; torments to torment thee to purpoſe, the mighty God of Heaven will lay as great wrath and ven<g ref="char:EOLhyphen"/>geance upon thee as ever be can by the might of his glorious power; thou ſhalt have his wrath not by drops, but by whole ſhowers ſhall it come thundering upon thy body &amp; ſoul ſo faſt that thou ſhalt be tormented out of meaſure, <hi>2 Theſ. 1.9</hi> ſpeaking of the Wick<g ref="char:EOLhyphen"/>ed; <hi>Who ſhall be puniſhed With Everlaſting deſtruction from the preſence of the Lord, and from the glory of his Power.</hi>
+            </p>
+            <p>Again, This thou ſhalt have without any intermiſſion; thou ſhalt not have any eaſe, for their worm never dies but always gnaws, and their Fire is never quenched; and in this condition you muſt be for ever, and that is as ſad as all the reſt, for if a Man were to have his ſine laid to his charge, and
+<pb n="9" facs="tcp:32000:6"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s much wrath as the great God of Heaven <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> inflict upon him, I ſay, if it were but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or a time, even but for ten thouſand years and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> end, there would be ground of comfort, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope of deliverance; but here is the Miſery, this is thy place for ever: when thou haſt been there as many thouſand years as there are Stars in the Firmament, or drops in the Sea, or Sand on the Sea ſhore; yet thou art never the nearer at an end: Oh this Word ever, how will it Torment thy curſed Soul.</p>
+            <p>Friends, I have given you a very touch of the torments of Hell, I am not able to utter what my mind conceives of the Tor<g ref="char:EOLhyphen"/>ment of Hell, yet this let mee ſay to thee Accept of Gods mercy through our Lord Ie<g ref="char:EOLhyphen"/>ſus Chriſt, leſt thou feel that with thy Con<g ref="char:EOLhyphen"/>ſcience, which I cannot expreſs with my tongue, and ſay, I am tormented in this flame.</p>
+            <p>
+               <hi>And ſee Abraham a farr off and Lazarus in his boſome.</hi>
+            </p>
+            <p>When the damned are in this pittiful ſtate, ſurrounded with fears, with terrors, with torments, and vengeance, one thing they ſhall have, which is this, they ſhall ſee the happy and bleſſed face of Gods Children, this ſhall moſt wonderfully aggravate their torments.</p>
+            <pb n="10" facs="tcp:32000:7"/>
+            <p n="2">2. Obſervation, that thoſe that dye <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their ſins are far from going to Heav<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>He ſeeth Abraham a far off, and Lazarus<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>word his boſome, verſe 24.</hi> and he cryed, and ſa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Father Abraham have mercy upon me, and ſend Lazarus that he may dip the tip of his finger in water to cool my tongue, for I am tormented in this flame; from</hi> theſe words, <hi>And he cryed,</hi> We may obſerve firſt, what a change the ungodly will have when they come into Hell, <hi>he cryed;</hi> it is like he was laughing, jeſting, jearing, drinking, mocking, ſwearing, curſing, perſecuting of the godly in his poſterity, among his filthy Companions, but now the caſe is al<g ref="char:EOLhyphen"/>tered, now he is in another frame, he cry<g ref="char:EOLhyphen"/>ed, <hi>The Laughter of the Wicked will not laſt always, but will be ſure to end in a cry, the Triumphing of the ungodly is ſhort Job 20.5.</hi>
+            </p>
+            <p>Oh what an alteration will there be a<g ref="char:EOLhyphen"/>mong the ungodly when they go out of this world; it may be a week or two before their departure, they were ſtou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſurly, drinking themſelves drunk, ſlighting Gods People, mocking at godlineſs, delighting in ſin, following the world, f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring deliciouſly, keeping company with the braveſt, but now they are dropt into Hell, and they cry: A lit<g ref="char:EOLhyphen"/>tle
+<pb n="11" facs="tcp:32000:7"/>while ago they were a painting their fa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> feeding their luſts, following Whores, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bing their Neighbours, telling of Lyes, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llowing of Plays and ſports, to paſs away <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir time, now they know not how to ſpend <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ir time, but when they depart into another <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace and begin to lift up their eyes in Hell, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d begin to conſider their miſerable and ir<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>overable condition, they will cry. O what condition wilt thou fall into, Oh Sinner! when thou doſt depart this world, if thou <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epart unconverted, and not born again, thou <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>adſt been better have been ſmothered <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e firſt hour thou waſt born, thou hadſt been <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etter thou hadſt been plucked one Limb from another: thou hadſt been better have been made a Dog, a Toad, a Serpent; nay any other thing in the viſible world then to dye unconverted, and this thou wilt find to be true, when in Hell thou doſt lift up thine e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and doſt cry. I will give the reaſon why the wicked perſons will cry when they come to Hell.</p>
+            <p>Firſt, They will cry to think that they ſhould be cut off from the Land of the Li<g ref="char:EOLhyphen"/>ving, never more to have any footing there<g ref="char:EOLhyphen"/>in.</p>
+            <pb n="12" facs="tcp:32000:8"/>
+            <p>Secondly, They will cry to think that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Goſpel of Chriſt ſhould be ſo often offe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them, and yet they not profited any thi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by it.</p>
+            <p>Thirdly, They will cry to think that the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are paſt all recovery.</p>
+            <p>Fourthly, They will cry to think that they ſhould be ſo fooliſh as to follow their own pleaſures, when others were following of Chriſt, <hi>Luke 13.28.</hi>
+            </p>
+            <p>Fifthly, They will cry when they conſi<g ref="char:EOLhyphen"/>der that they muſt be ſeperated from God Chriſt and the Kingdom of Heaven, and that for ever.</p>
+            <p>Sixthly, They will cry to think that <hi>La<g ref="char:EOLhyphen"/>zarus</hi> whom once they flighted, muſt be of them that muſt ſit down with Chriſt when he ſhall come to paſs a Sentence of condem<g ref="char:EOLhyphen"/>nation on their Souls for ever and ever, <hi>1 Cor. 6.23.</hi>
+            </p>
+            <p>Seventhly, They will cry to think that when judgement is over, and others are taken Into the everlaſting Kingdom of glory; then they muſt depart back again into that Dun<g ref="char:EOLhyphen"/>geon
+<pb n="13" facs="tcp:32000:8"/>of darkneſs, where they ſhall be tormen<g ref="char:EOLhyphen"/>ted ſo long as Eternity laſts, without the leaſt intermiſſion or eaſe.</p>
+            <p>Conſider this, O thou Wanton, Proud, Swearing, Lying, ungodly wretch, whether this be to be ſlighted and made a mock at; and again tell mee now if it be not better to leave ſin and to cloſe with Ieſus Chriſt; not with<g ref="char:EOLhyphen"/>ſtanding all the reproach thou ſhalt meet with for ſo doing, then to live a little while in this world in pleaſures, and feeding thy Luſts, in neglecting the welfare of thy Soul, and re<g ref="char:EOLhyphen"/>fuſing to be juſtified by Ieſus, and in a mo<g ref="char:EOLhyphen"/>ment drop down to Hell. O conſider I ſay betimes, and do not put off the tenders of the grace of our Lord Ieſus Chriſt, leſt you lift up your eyes in Hell, and cry for anguiſh of Spirit.</p>
+            <p>And he cryed, and ſaid, <hi>Father Abraham have mercy upon me, and ſend Lazarus, that he may dip the tip of his finger in wa<g ref="char:EOLhyphen"/>ter to cool my tongue.</hi> This ſhews that mercy would be very welcome to ſouls that are in torments: now <hi>Dives</hi> is in Hell, now his ſoul is frying in flames, now he is under the wrath of God: Oh now he crys, <hi>have mercy on me, oh ſend Lazarus with one drop of Water to cool my tongue:</hi> He that before would not accept of mercy: now
+<pb n="14" facs="tcp:32000:9"/>is willing to accept of the leaſt mercy; now ſays the tormented Soul, I would be glad of the leaſt comfort, though it be but one drop of cold water: O that theſe things did take place in your hearts, how would it make you to ſeek after Reſt for your Souls, before it be too late, before the Sun of the Goſpel be ſet upon you. But further.</p>
+            <p>
+               <hi>For I am tormented in this flame.</hi>
+            </p>
+            <p>The reaſon why the poor world do not ſo earneſtly deſire mercy, is becauſe they do not ſeriouſly conſider the Torments that they muſt certainly fall into, if they dye out of Chriſt; for did but poor ſouls conſider what wrath ſhall fall upon them for their ſins committed againſt God, how willing would they be to cloſe with Chriſt?</p>
+            <p>But why is it ſaid, <hi>let him dip the tip of his finger, and cool my Tongue;</hi> becauſe that as the ſeveral members have their ſhares in ſin, and the pleaſures thereof; ſo the ſeve<g ref="char:EOLhyphen"/>ral members of the body ſhall at that time be puniſhed for the ſame, therefore our Saviour ſaies, <hi>Fear him that is able to deſtroy body and ſoul in Hell, Luke 12.4.</hi> Mark, here is not only one member, but all the body, the hands, feet, eyes, ears, and tongue, all muſt take part in this torment. O then the curſer,
+<pb n="15" facs="tcp:32000:9"/>S<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eare<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the Lyer, will cry, <hi>Oh one drop of water <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cool my tongue, with which I have <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> diſhonoured my Creator; verſe 25. but Abraham ſaid, Son remember thou in thy life<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me hadſt, thy good things, and likewiſe La<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>us evil things; now he is comforted, and thou art tormented.</hi>
+            </p>
+            <p>In the verſe before, he have the deſire o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>neſt of the damned for one drop of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> would think it were a very <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 'tis not allowed them; for ob<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; <hi>Son remember, &amp;c.</hi> By which <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ears, that the damned ſhall not have any <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eaſe, but are the more formenred and that is <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> calling to mind their former ill-ſpent life; when they remember what good things they had, and how many mercies they <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>yed and that they did make no better uſe of them. This, I <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, will be a torment to <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em: then thou ſhall remember how thou neglected <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i Chriſt and thy Soul, and preferred<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t thy baſe Luſt and ſinful Pleaſures before e<g ref="char:EOLhyphen"/>ternal happineſs; the remembrance of this will make th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cry for anguiſh of Spirit, but thy crying will <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ail thee nothing, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>6.2. This is not the acceptable time, this <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a time to anſwer the deſires of the damned Reprobates.</hi> If thou hadſt cryed ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in good earneſt while grace was offered,
+<pb n="16" facs="tcp:32000:10"/>much might have been, but then thou wert careleſs and didſt turn the forbearance and goodneſs of God into Wantonneſs; th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wert told; <hi>That thoſe that would not he<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Lord when he did call, ſhould not be heard (if they turned away from him) when they did call, Prov. 1.24, to 28.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow therefore inſtead of expecting the leaſt drop of mercy and favour, call into mind how th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> didſt ſpend thoſe days which God did permit thee to live; I ſay, Remember that in thy life time thou didſt behave thy ſelf rebelliouſly againſt the Lord, the thoughts of which will be to thy everlaſting aſtoniſhment and confu<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>From theſe words, which ſay, <hi>Remember thou in thy life-time had thy good things;</hi> there are theſe things that are to be taken notice of.</p>
+            <p>Firſt, That they which put off Repen<g ref="char:EOLhyphen"/>tance, and living in their ſins, loſe their im<g ref="char:EOLhyphen"/>mortal ſouls, ſhall inſtead of having the leaſt meaſure of comfort; when they come to Hell have always their ill-ſpent life freſh in their remembrance: think upon this, O thou impenitent ſinner; while you are here you can ſin and forget it, but when you come to
+<pb n="17" facs="tcp:32000:10"/>Hell thou ſhalt remember them all, all the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icked practices that you wrought in the World will then appear, <hi>Son Remember</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith he.</p>
+            <p>Firſt, how you were born in ſin, and brought up in the ſame.</p>
+            <p>Secondly, Remember, that thou hadſt ma<g ref="char:EOLhyphen"/>ny a time the Goſpel preached to thee for take<g ref="char:EOLhyphen"/>ing away of the ſame.</p>
+            <p>Thirdly, Remember that out of love to thy Sins thou didſt turn thy back on the renders of the ſame Goſpel, of good Lidings and Peace.</p>
+            <p>Fourthly, Remember how near thou waſt to turning to God at ſuch a time, and at ſuch a time; onely thou waſt willing to give way to thy luſts, when they wrought to drunken<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Fifthly, Thou ſhalt remember how thou didſt diſſemble at ſuch a time, lye at ſuch a time, mock and ſcoff, and perſecute the bleſſed People of God at ſuch a time; thou ſhalt be made to remember this to thy eternal torment.</p>
+            <pb n="18" facs="tcp:32000:11"/>
+            <p>Sixthly, and Laſtly, Thou ſhall reme<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that whi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> others were met together <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> fear of the Lord to ſeek him, thou waſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with a company of vain Companions to Sin againſt him; while the Saints were Pray<g ref="char:EOLhyphen"/>ing, thou wert a Curſing. O the Remem<g ref="char:EOLhyphen"/>brance of this will be terrible to thee; then thou will find that Scripture to be a truth<g ref="char:punc">▪</g> 
+               <hi>Deut. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8.65, 66, 67. The Lord ſhall give thee there a trembling heart, and failing of eyes, and ſorrow of mind, and thy life ſhall, hang in doubt before thee, and thou ſhalt fear day and night, &amp;c.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, thou, wilt find worſe things to thy woe then this Scripture doth manifeſt, for indeed <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no tongue able to expreſs the Hor<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, Terror, and Eternal miſery <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> poor ſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ls ſhall undergo without the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mitigation of eaſe; and the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> part of this miſery comes from the remembring what good things they had in their <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the great God inſtead of giving the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> eaſe, will even aggra<g ref="char:EOLhyphen"/>vate their torments: Firſt, by ſlighting the<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> miſeries and by telling them what they m<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> think <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Remember,</hi> ſaith he, <hi>O ye loſt <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouls that you had your Joy in your life<g ref="char:EOLhyphen"/>time,
+<pb n="19" facs="tcp:32000:11"/>your peace, your comfort, your de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Eaſe, Wealth, Health, your Heaven, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ppineſs, your portion was in this life<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me.</hi>
+            </p>
+            <p>O miſerable ſtate thou wilt then be in, a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad condition indeed, when thou ſhalt fee that <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll thy comforts are paſt, and that for ever, <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alm 17.14.</hi> The wickeds good things will <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tly have an end: and therefore it may well <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ompa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to the crackling of Thorns un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> a pot, which makes a biaze for a ſudden, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> little hear for a while, but inſtead of a com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>table hear, you will find nothing but a <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w dead a ſhes: 'tis true, while the ungodly <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e here on this ſide Hell, they think nothing <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he compared to Riches, Honour, and Plea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re, which makes them cry out, <hi>Who will <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hew us any good? Pſal 4.6.</hi>
+            </p>
+            <p>Friends, Conſider how it will grieve you <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd torment you, when you ſhall ſee that you <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſt Heaven for your ſhort Pleaſure here in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> life time.</p>
+            <p>Theſe words do not onely hold forth the mi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of the wicked in this life, but alſo great <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſolation to the Saints, where he ſaith, <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Lazarus evil things,</hi> the Saints of God
+<pb n="20" facs="tcp:32000:12" rendition="simple:additions"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve their evil, things in this If <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, obſering <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be life of the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> are in th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> worl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with many <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or afflictions <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Many are the afflictions <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>hteous, but God will deliver them o<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of them all.</p>
+            <p>ſhould enlarge upon this part of <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> viz <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhew you <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow many <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> company the Saints of God in <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the bleſſed and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>me; <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nity: the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> one <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> delive<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to his glo<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and then you ſhall <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er come to partake of theſe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of which you have heard.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:32000:12"/>
+            <head>Books Printed for, and ſold by, <hi>Charles <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nger,</hi> at the ſign of the ſeven Stars <hi>London-Bridge,</hi> in the new Buldings.</head>
+            <list>
+               <item>A Dialogue between Life and Death.</item>
+               <item>The wiſe Merchant, or the Pearleſs Pearl:</item>
+               <item>A Treatiſe Exhorting all Chriſtians to ſeek her true ſpiritual Wiſdom.</item>
+               <item>The School of Grace.</item>
+               <item>Theſe four are 3<abbr>
+                     <hi>d</hi>
+                  </abbr> a piece.</item>
+               <item>Mans Laſt End, by Mr. <hi>Janeway.</hi>
+               </item>
+               <item>Mr. <hi>Richard Baxter</hi>'s Alaram.</item>
+               <item>Chriſt in the Clouds, coming to Judge<g ref="char:EOLhyphen"/>ment; by Mr. <hi>Wadſworth.</hi>
+               </item>
+               <item>The Worlds loſs, and Righteous mans gain: being a Funeral Sermon for M. <hi>Wadſworth.</hi>
+               </item>
+               <item>Mr. <hi>Venning</hi>'s Chriſtians temptations and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ryals.</item>
+               <item>Tormenting Tophet, or a terrible deſcrip<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion of Hell, able to break the hardeſt heart.</item>
+               <item>Theſe ſix laſt are but 2<abbr>d</abbr> a piece.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32000:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
